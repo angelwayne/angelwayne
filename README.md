@@ -1,3 +1,4 @@
+
 # #Root user document
 
 Hola Bienvenido a mi repositorio profesional
@@ -42,3 +43,12 @@ Install my-project with personal-data
 **Client:** Informatica Medica (Actualidad)
 
 **Server:** Programador FullStack
+
+
+## API Reference
+
+#### Todo en conjunto
+
+```http
+ [![My Skills](https://skillicons.dev/icons?i=php,laravel,c#,net,python,angular,react,javascript,kotlin&perline=3)](https://skillicons.dev)
+```
