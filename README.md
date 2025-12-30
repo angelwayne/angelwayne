@@ -43,7 +43,8 @@ const frontendSkills = {
 ### ⚙️ **Backend Development**
 ```python
 backend_skills = {
-    "languages": ["Node.js", "Python", "Java", "PHP"],
+    "languages": ["Python", "Java", "PHP", "JavaScript"],
+    "runtime": ["Node.js"],
     "frameworks": ["Express", "NestJS", "Django", "Spring Boot"],
     "databases": ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
     "api": ["REST", "GraphQL", "gRPC", "WebSockets"],
