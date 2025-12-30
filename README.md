@@ -44,11 +44,3 @@ Install my-project with personal-data
 
 **Server:** Programador FullStack
 
-
-## API Reference
-
-#### Todo en conjunto
-
-```http
- [![My Skills](https://skillicons.dev/icons?i=php,laravel,c#,net,python,angular,react,javascript,kotlin&perline=3)](https://skillicons.dev)
-```
