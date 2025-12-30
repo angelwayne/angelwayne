@@ -1,16 +1,44 @@
-## Hi there 👋
+# #Root user document
 
-<!--
-**angelwayne/angelwayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola Bienvenido a mi repositorio profesional
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Installation
+
+Install my-project with personal-data
+
+```bash
+  full-name Miguel Angel Gonzalez Camilo
+  degree Engineer 
+  years 30
+  Experince Time +6 years ago
+```
+    
+## Tecnologies
+
+- PHP Laravel
+- C# .Net
+- Python
+- Angular
+- JavaScript
+- React
+- SQL Server
+- Mysql
+- Oracle
+- GitHub
+- Postman
+
+
+## Experience
+
+**Client:** SHERPA 2018 - 2020
+
+**Server:** Programador Web
+
+**Client:** Secretaria de Desarrollo Economico 2020 - 2025
+
+**Server:** Lider Programador
+
+**Client:** Informatica Medica (Actualidad)
+
+**Server:** Programador FullStack
