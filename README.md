@@ -32,7 +32,7 @@ Install my-project with personal-data
 
 ## Experience
 
-**Client:** SHERPA 2018 - 2020
+**Client:** Work Vest de México 2018 - 2020
 
 **Server:** Programador Web
 
@@ -40,7 +40,7 @@ Install my-project with personal-data
 
 **Server:** Lider Programador
 
-**Client:** Informatica Medica (Actualidad)
+**Client:** Health Care Access 2025 - Actualidad)
 
 **Server:** Programador FullStack
 
